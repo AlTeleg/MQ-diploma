@@ -351,8 +351,10 @@ li {
     height: 48px;
     width: 140px;
     padding: 0;
-    text-align: center;
+    display: flex;
     justify-content: center;
+    align-items: center;
+    text-transform: uppercase;    
 }
 
 .products__title {
