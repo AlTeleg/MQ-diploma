@@ -631,6 +631,7 @@ li {
     background-color: #b59f5b;
     background-position: center;
     border: none;
+    text-transform: uppercase;
 }
 
 .search-form__input {
@@ -651,6 +652,7 @@ li {
     font-weight: bold;
     color:#ffffff;
     margin-top: 18px;
+    text-transform: uppercase;
 }
 
 .email-form__input {
